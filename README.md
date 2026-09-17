@@ -1,18 +1,18 @@
-# ⚡ Dhruv Mayur Vira — Neo-Brutalist Developer Portfolio
+#  Dhruv Mayur Vira — Neo-Brutalist Developer Portfolio
 
 A high-impact, premium developer portfolio and interactive site-roasting engine built with **React**, **Vite**, and **Tailwind CSS**. It follows a **Neo-Brutalist / Flat design aesthetic** featuring sharp layouts, heavy borders, custom typography, interactive sticker board, and a dynamic "Chaos" accent color cycling mechanism.
 
 ---
 
-## 🎨 Theme & Aesthetic
+##  Theme & Aesthetic
 
 The portfolio is designed with a **monospaced Brutalist theme**:
-- **Chaos Mode (⚡)**: Clicking the chaos badge in the header instantly cycles the site's accent color through a vibrant palette (Red, Blue, Yellow, Pink, and Green), applying it dynamically using CSS custom properties.
+- **Chaos Mode ()**: Clicking the chaos badge in the header instantly cycles the site's accent color through a vibrant palette (Red, Blue, Yellow, Pink, and Green), applying it dynamically using CSS custom properties.
 - **Micro-interactions**: Hover effects with rigid flat offsets, scrambled-text animations, blinking badges, and draggable sticker cards.
 
 ---
 
-## 📸 Portfolio Sections & Screenshots
+##  Portfolio Sections & Screenshots
 
 ### 1. Hero & Navigation Header
 The entry point features a blinking availability badge, the signature Brutalist typography title "I BUILD DIGITAL PRODUCTS.", a monospaced intro statement, and quick navigation.
@@ -43,7 +43,7 @@ The portfolio archive showcases featured projects in an expandable, dark-themed 
 
 ---
 
-### 5. Side Quest: Roast My Site 🔥
+### 5. Side Quest: Roast My Site 
 An interactive mock console utility where users can paste any URL and get a satirical, brutal critique of their site's load speed, design, trust popups, and typography.
 - **Idle Form State**:
   ![Roast My Site Form](./screenshots/roast_page.png)
@@ -53,7 +53,7 @@ An interactive mock console utility where users can paste any URL and get a sati
 
 ---
 
-## 🛠️ Tech Stack & Technologies
+##  Tech Stack & Technologies
 
 - **Frontend Core**: React 19, Vite (Fast HMR)
 - **Styling**: Tailwind CSS (customized for flat borders and rigid shadows)
@@ -63,7 +63,7 @@ An interactive mock console utility where users can paste any URL and get a sati
 
 ---
 
-## 🚀 Running the App Locally
+##  Running the App Locally
 
 ### Prerequisites
 Make sure you have Node.js installed on your machine.
@@ -95,7 +95,7 @@ npm run preview
 
 ---
 
-## 📬 Contact Details
+##  Contact Details
 
 - **Owner**: Dhruv Mayur Vira
 - **Email**: [dhruvvira17@gmail.com](mailto:dhruvvira17@gmail.com)
